@@ -12,7 +12,7 @@ Cursos:
 9. ​        Conceitos e melhores práticas com bando de dados Postgresql
 10. ​        Introdução ao MongoDB e Banco de dados Nosql
 11. ​        Introdução a programação com python
-12. ​        Segurança da Informação com python
+12. ​        [Segurança da Informação com python](https://github.com/alexsandrocn/seguranca-informacao-python)
 13. ​        Fundamentos de ETL com Python
 14. ​        Soluções Aritméticas em Python
 15. ​        Introdução ao Big Data e Hadoop
