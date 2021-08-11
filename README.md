@@ -26,4 +26,4 @@ Cursos:
 23. ​        Analise de dados com Python e Pandas
 24. ​        Trabalhando com visualização de dados usando MicroStrategy
 25. ​        Solucionado Desafios em Python
-26. ​        Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud
+26. ​        [Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc](https://github.com/alexsandrocn/projeto-dio-dataproc)
